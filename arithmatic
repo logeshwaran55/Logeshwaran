@@ -1,0 +1,13 @@
+import java.util.scanner;
+class maths
+{
+static int a,b,c;
+public static void main (string arg[])
+{
+scanner s1 = new scanner (system.in);
+a=s1.nextInt();
+b=s1.nextInt();
+c=a+b;
+system.out println("the sum is "+c);
+}
+}
