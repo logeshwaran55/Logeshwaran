@@ -20,7 +20,7 @@ To become a skilled Software Engineer and AI Developer who builds impactful, rea
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,vite&theme=light" />
 </p>
-## 📊 GitHub Statistics
+📊 GitHub Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=logeshwaran55&show_icons=true&theme=tokyonight&hide_border=true" />
