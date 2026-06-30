@@ -30,3 +30,28 @@ To become a skilled Software Engineer and AI Developer who builds impactful, rea
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=logeshwaran55&theme=tokyonight&hide_border=true" />
 </p>
+## 🚀 Featured Projects
+
+### 🌟 LifeOS
+An AI-powered productivity platform built using the MERN Stack.
+
+**Tech Stack:** React, TypeScript, Node.js, Express.js, MongoDB
+
+**Features**
+- Task & Goal Management
+- Smart Scheduling
+- Progress Dashboard
+- Google Authentication
+- Analytics & Productivity Tracking
+
+---
+
+### 🐘 Elephant Detection & SOS Alert System
+An IoT + AI project that detects elephants using YOLOv8 and automatically sends SOS alerts.
+
+**Tech Stack:** Python, YOLOv8, ESP32-CAM, SIM800L, GPS
+
+---
+
+📚 Java DSA Journey
+A collection of Data Structures & Algorithms solutions in Java with clean code and explanations.
