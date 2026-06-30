@@ -15,3 +15,8 @@
 
 🎯 Career Goal:
 To become a skilled Software Engineer and AI Developer who builds impactful, real-world applications.
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,vite&theme=light" />
+</p>
